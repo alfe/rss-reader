@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# added
+.firebase/*.cache
+functions/package-lock.json
